@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ERPIntegra
 {
     /******/
-
+    /**/
     /******/
     public class lisLaboratorio
     {
