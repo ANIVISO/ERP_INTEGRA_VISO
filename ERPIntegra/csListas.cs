@@ -8,6 +8,7 @@ namespace ERPIntegra
 {
     /******/
     /**/
+    /**/
     /******/
     public class lisLaboratorio
     {
